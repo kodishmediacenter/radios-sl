@@ -6,3 +6,5 @@
 
 [89 Radio Rock](https://www.radiorock.com.br/player/) <br><br>
 
+[Kiss FM](https://www.radios.com.br/aovivo/radio-kiss-925-fm/13561) <br><br>
+
