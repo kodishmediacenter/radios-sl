@@ -4,5 +4,5 @@
 
 <a href="https://rrdns-dumont.webnow.com.br/dumont.mp3"># Dumont FM</a><br><br>
 
-[89 Radio Rock](https://bit.ly/3QsEMf3) <br><br>
+[89 Radio Rock](https://www.radiorock.com.br/player/) <br><br>
 
