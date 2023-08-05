@@ -8,4 +8,4 @@
 
 [Kiss FM](https://www.radios.com.br/aovivo/radio-kiss-925-fm/13561) <br><br>
 
-[Mix FM](https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC.aac?dist=radioscombr) <br><br>
+[Mix FM](https://www.radios.com.br/aovivo/radio-mix-1021-fm/13958) <br><br>
