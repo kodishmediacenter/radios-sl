@@ -10,4 +10,4 @@
 
 [Mix FM](https://www.radios.com.br/aovivo/radio-mix-1021-fm/13958) <br><br>
 
-[Power K-pop](http://stm11.srvstm.com:12710/stream) <br><br>
+[Power K-pop](http://play.radios.com.br/32765) <br><br>
