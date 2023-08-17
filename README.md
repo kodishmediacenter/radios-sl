@@ -7,4 +7,5 @@
 ## [Kiss Fm](https://github.com/kodishmediacenter/radios-sl/blob/main/kissfm.md) <br>
 ## [Mix Fm](https://github.com/kodishmediacenter/radios-sl/blob/main/mixfm.md) <br>
 ## [Saudade FM](https://github.com/kodishmediacenter/radios-sl/blob/main/saudade-fm.md) <br>
+## [Fita Cassete](https://github.com/kodishmediacenter/radios-sl/blob/main/fitacassete.md)<br>
 
